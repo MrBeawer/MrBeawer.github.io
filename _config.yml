@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marko Munsterhjelm"
-  avatar           : "MarkoMunsterhjelm.png"
+  avatar           : "files/MarkoMunsterhjelm.png"
   bio              : "4th year studet at karelia's University of Applied Sciences. Focusing on game development and Python programming along with SQL other ITC stuff. "
   location         : "Southern Finland @Kausala"
   employer         : "Open for work!!"

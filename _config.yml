@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter ""
+  username               : &twitter "mmunster_marko"
 facebook:
   username               :
   app_id                 :
@@ -85,9 +85,9 @@ author:
   bio              : "4th year studet at karelia's University of Applied Sciences. Focusing on game development and Python programming along with SQL other ITC stuff. "
   location         : "Southern Finland @Kausala"
   employer         : "Open for work!! Contact me if you got interested."
-  pubmed           : ""
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "marko[at]munsterhjelm.com
+  pubmed           : #""
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "marko[at]munsterhjelm.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
